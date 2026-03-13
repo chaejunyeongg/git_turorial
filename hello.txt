@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 My mail is j01082202926@gmail.com
+=======
+My name is Junyeong
+>>>>>>> my_branch
