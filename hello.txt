@@ -1,14 +1,4 @@
 
 Hello world!
-<<<<<<< HEAD
-My mail is j01082202926@gmail.com
-=======
-My name is Junyeong
->>>>>>> my_branch
-<<<<<<< HEAD
-1 line
-Second line
-=======
-1 line
-Second line
->>>>>>> 9594fc0 (first commit from now_branch)
+2 line
+3 line
